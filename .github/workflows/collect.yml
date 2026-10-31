@@ -3,7 +3,7 @@ name: Collect verified Bithumb market data
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '2,12,22,32,42,52 * * * *'
   workflow_dispatch:
 
 permissions:
