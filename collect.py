@@ -17,7 +17,7 @@ def main():
     result={'source':'Bithumb official public API','requested_at_kst':start.astimezone(KST).isoformat(),'collected_at_kst':None,'markets':{},'status':'ok'}
     for market in MARKETS:
         t=by[market];p=float(t['trade_price']);trade_ms=int(t['trade_timestamp']) - 9 * 60 * 60 * 1000
-        server_ms=int(t['timestamp'])
+        server_ms=int(t['timestamp']) - 9 * 60 * 60 * 1000
         if p<=0 or trade_ms<=0 or server_ms<=0:raise ValueError('Invalid ticker '+market)
         age=(datetime.datetime.now(UTC).timestamp()*1000-trade_ms)/1000
         if age < -60:raise ValueError('Future trade timestamp '+market)
