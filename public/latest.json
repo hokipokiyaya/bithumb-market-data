@@ -1,13 +1,13 @@
 {
   "source": "Bithumb official public API",
-  "requested_at_kst": "2026-10-31T20:47:34.117087+09:00",
-  "collected_at_kst": "2026-10-31T20:47:44.409191+09:00",
+  "requested_at_kst": "2026-10-31T20:58:42.955968+09:00",
+  "collected_at_kst": "2026-10-31T20:58:54.496848+09:00",
   "markets": {
     "KRW-BTC": {
-      "trade_price_krw": 104472000.0,
-      "trade_at_kst": "2026-10-31T20:47:26.628000+09:00",
-      "ticker_at_kst": "2026-10-31T20:47:26.628000+09:00",
-      "trade_age_seconds": 8.0,
+      "trade_price_krw": 104529000.0,
+      "trade_at_kst": "2026-10-31T20:58:40.427000+09:00",
+      "ticker_at_kst": "2026-10-31T20:58:40.427000+09:00",
+      "trade_age_seconds": 3.1,
       "stale_over_180s": false,
       "candles": {
         "15": [
@@ -5392,10 +5392,10 @@
       }
     },
     "KRW-ENS": {
-      "trade_price_krw": 6670.0,
-      "trade_at_kst": "2026-10-31T20:45:37.088000+09:00",
-      "ticker_at_kst": "2026-10-31T20:45:37.088000+09:00",
-      "trade_age_seconds": 120.0,
+      "trade_price_krw": 6665.0,
+      "trade_at_kst": "2026-10-31T20:58:29.615000+09:00",
+      "ticker_at_kst": "2026-10-31T20:58:29.615000+09:00",
+      "trade_age_seconds": 16.7,
       "stale_over_180s": false,
       "candles": {
         "15": [
@@ -10780,11 +10780,11 @@
       }
     },
     "KRW-KAIA": {
-      "trade_price_krw": 46.25,
-      "trade_at_kst": "2026-10-31T20:46:53.298000+09:00",
-      "ticker_at_kst": "2026-10-31T20:46:53.298000+09:00",
-      "trade_age_seconds": 46.3,
-      "stale_over_180s": false,
+      "trade_price_krw": 46.34,
+      "trade_at_kst": "2026-10-31T20:54:15.989000+09:00",
+      "ticker_at_kst": "2026-10-31T20:54:15.989000+09:00",
+      "trade_age_seconds": 273.1,
+      "stale_over_180s": true,
       "candles": {
         "15": [
           {
@@ -16169,9 +16169,9 @@
     },
     "KRW-USDT": {
       "trade_price_krw": 1347.0,
-      "trade_at_kst": "2026-10-31T20:47:28.990000+09:00",
-      "ticker_at_kst": "2026-10-31T20:47:28.990000+09:00",
-      "trade_age_seconds": 13.0,
+      "trade_at_kst": "2026-10-31T20:58:42.782000+09:00",
+      "ticker_at_kst": "2026-10-31T20:58:42.782000+09:00",
+      "trade_age_seconds": 8.9,
       "stale_over_180s": false,
       "candles": {
         "15": [
