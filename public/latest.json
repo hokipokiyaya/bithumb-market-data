@@ -1,13 +1,13 @@
 {
   "source": "Bithumb official public API",
-  "requested_at_kst": "2026-11-01T11:30:32.735026+09:00",
-  "collected_at_kst": "2026-11-01T11:30:43.217900+09:00",
+  "requested_at_kst": "2026-11-01T11:41:15.485507+09:00",
+  "collected_at_kst": "2026-11-01T11:41:27.665445+09:00",
   "markets": {
     "KRW-BTC": {
-      "trade_price_krw": 104758000.0,
-      "trade_at_kst": "2026-11-01T11:30:25.814000+09:00",
-      "ticker_at_kst": "2026-11-01T11:30:25.814000+09:00",
-      "trade_age_seconds": 7.4,
+      "trade_price_krw": 104739000.0,
+      "trade_at_kst": "2026-11-01T11:40:50.841000+09:00",
+      "ticker_at_kst": "2026-11-01T11:40:50.841000+09:00",
+      "trade_age_seconds": 25.2,
       "stale_over_180s": false,
       "candles": {
         "15": [
@@ -5392,10 +5392,10 @@
       }
     },
     "KRW-ENS": {
-      "trade_price_krw": 6630.0,
-      "trade_at_kst": "2026-11-01T11:08:23.927000+09:00",
-      "ticker_at_kst": "2026-11-01T11:08:23.927000+09:00",
-      "trade_age_seconds": 1331.9,
+      "trade_price_krw": 6625.0,
+      "trade_at_kst": "2026-11-01T11:35:48.940000+09:00",
+      "ticker_at_kst": "2026-11-01T11:35:48.940000+09:00",
+      "trade_age_seconds": 330.0,
       "stale_over_180s": true,
       "candles": {
         "15": [
@@ -7189,15 +7189,6 @@
             "low": 6990,
             "close": 6990,
             "volume": 16.36781609
-          },
-          {
-            "start_kst": "2026-10-30T05:00:00+09:00",
-            "end_kst": "2026-10-30T05:15:00+09:00",
-            "open": 7030,
-            "high": 7030,
-            "low": 6925,
-            "close": 6970,
-            "volume": 615.16154212
           }
         ],
         "60": [
@@ -10789,10 +10780,10 @@
       }
     },
     "KRW-KAIA": {
-      "trade_price_krw": 45.9,
-      "trade_at_kst": "2026-11-01T11:27:12.158000+09:00",
-      "ticker_at_kst": "2026-11-01T11:27:12.158000+09:00",
-      "trade_age_seconds": 206.1,
+      "trade_price_krw": 45.82,
+      "trade_at_kst": "2026-11-01T11:37:56.922000+09:00",
+      "ticker_at_kst": "2026-11-01T11:37:56.922000+09:00",
+      "trade_age_seconds": 205.5,
       "stale_over_180s": true,
       "candles": {
         "15": [
@@ -12586,15 +12577,6 @@
             "low": 41.58,
             "close": 42.41,
             "volume": 1698081.4782018883
-          },
-          {
-            "start_kst": "2026-10-30T09:15:00+09:00",
-            "end_kst": "2026-10-30T09:30:00+09:00",
-            "open": 43.21,
-            "high": 43.21,
-            "low": 41.58,
-            "close": 42.01,
-            "volume": 6792233.529630508
           }
         ],
         "60": [
@@ -16187,9 +16169,9 @@
     },
     "KRW-USDT": {
       "trade_price_krw": 1348.0,
-      "trade_at_kst": "2026-11-01T11:30:03.443000+09:00",
-      "ticker_at_kst": "2026-11-01T11:30:03.443000+09:00",
-      "trade_age_seconds": 37.2,
+      "trade_at_kst": "2026-11-01T11:40:55.669000+09:00",
+      "ticker_at_kst": "2026-11-01T11:40:55.669000+09:00",
+      "trade_age_seconds": 29.3,
       "stale_over_180s": false,
       "candles": {
         "15": [
